@@ -1,4 +1,4 @@
-[![Python CI Pipeline](https://github.com/NUCES-ISB/ci-introduction-MavraMehak/actions/workflows/ci.yml/badge.svg)](https://github.com/NUCES-ISB/ci-introduction-MavraMehak/actions/workflows/ci.yml)
+[![Python CI Pipeline](https://github.com/SaraMeer453/ci-introduction/actions/workflows/ci.yml/badge.svg)](https://github.com/SaraMeer453/ci-introduction/actions/workflows/ci.yml)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/29wjpv4A)
 Here is a complete, hands-on lab task designed to demonstrate **Continuous Integration (CI)**.
